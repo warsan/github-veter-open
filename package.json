@@ -1,1 +1,4 @@
-
+{
+  "private": false
+  "workspaces": ["sdk", "turbo-cdn", "turbo-registry-sync", "turbo-resolver"]
+}
